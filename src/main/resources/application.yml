@@ -1,0 +1,12 @@
+cloud:
+  aws:
+    region:
+      static: us-east-1
+      auto: false
+    stack:
+      auto: false
+    credentials:
+      access-key: AKIAYWBHHETQ7FS5IGGM
+      secret-key: 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
+    end-point:
+      url: https://sqs.us-east-1.amazonaws.com/597082711265/MyStandardQueueTechnoTownTechie
